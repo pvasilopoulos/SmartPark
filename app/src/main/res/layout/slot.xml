@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/road"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:id="@+id/s_area"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Θέση"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/p1"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                    android:layout_weight="2"
+                    android:alpha="0"
+                    android:background="@android:color/white"
+                    android:text="Slot 1" />
+
+                <Button
+                    android:id="@+id/pbutton2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="#808080"
+                    android:alpha="0"
+                    android:layout_weight="1"
+                    android:text="" />
+
+                <Button
+                    android:id="@+id/p2"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                    android:background="@android:color/white"
+                    android:alpha="0"
+                    android:layout_weight="2"
+                    android:text="Slot 2" />
+            </LinearLayout>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="100dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/p3"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                    android:layout_weight="2"
+                    android:alpha="0"
+                    android:background="@android:color/white"
+                    android:text="Slot 3" />
+
+                <Button
+                    android:id="@+id/pbutton1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="#808080"
+                    android:alpha="0"
+                    android:layout_weight="1"
+                    android:text="" />
+
+                <Button
+                    android:id="@+id/p4"
+                    android:layout_width="0dp"
+                    android:background="@android:color/white"
+                    android:layout_height="100dp"
+                    android:alpha="0"
+                    android:layout_weight="2"
+                    android:text="Slot 4" />
+            </LinearLayout>
+            
+        </TableRow>
+
+    </TableLayout>
+
+</RelativeLayout>
+</ScrollView>

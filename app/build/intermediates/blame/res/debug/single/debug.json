@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_plot_by_pincode.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\plot_by_pincode.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\menu_create_user.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\menu\\create_user.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_p_layout.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\p_layout.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_balance.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\add_balance.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_reg_user.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\reg_user.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_booking.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\view_booking.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapmarker.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\mapmarker.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_cancel.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\cancel.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mymark.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\mymark.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_slot.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\slot.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_road.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\road.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_road2.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\road2.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_feedback.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_details.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\menu\\user_details.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_det.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\my_det.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parkicon.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\parkicon.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_region.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\region.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parkmark.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\parkmark.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapview.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\layout\\mapview.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\menu_dept.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\menu\\dept.xml"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\SmartPark\\SmartPark\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\SmartPark\\SmartPark\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

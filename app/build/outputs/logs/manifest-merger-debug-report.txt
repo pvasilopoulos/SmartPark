@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\fd114644fb954fea318063ac10638467\play-services-tasks-10.0.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\17a96acc483609f3b0fb66422b7d4345\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4e54cae5c06a0d358530e05dfff4f807\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c2b140ae0aef5d91dd5535abb81e1963\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\bc3957964865d26c741a9df42f209137\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4eff6b84284a260d78f56a3e8269964d\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\03a1c0db3748f68fff95136bb126f9b7\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\9e5aeb3a9b43418d82e255bd34525598\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\05bccbdff5058acada517e63ddf858d0\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\fd114644fb954fea318063ac10638467\play-services-tasks-10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\fd114644fb954fea318063ac10638467\play-services-tasks-10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\17a96acc483609f3b0fb66422b7d4345\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\17a96acc483609f3b0fb66422b7d4345\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4e54cae5c06a0d358530e05dfff4f807\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4e54cae5c06a0d358530e05dfff4f807\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c2b140ae0aef5d91dd5535abb81e1963\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c2b140ae0aef5d91dd5535abb81e1963\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\bc3957964865d26c741a9df42f209137\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\bc3957964865d26c741a9df42f209137\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4eff6b84284a260d78f56a3e8269964d\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4eff6b84284a260d78f56a3e8269964d\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\03a1c0db3748f68fff95136bb126f9b7\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\03a1c0db3748f68fff95136bb126f9b7\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\9e5aeb3a9b43418d82e255bd34525598\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\9e5aeb3a9b43418d82e255bd34525598\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\05bccbdff5058acada517e63ddf858d0\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\05bccbdff5058acada517e63ddf858d0\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:12:22-76
+uses-feature#0x00020000
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:14:5-16:35
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:15:9-41
+	android:required
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:16:9-32
+application
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:18:5-55:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\db8af26f0f010a7eb42ee345581b44d8\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\0c94b69472de9f70faddfbbf18523397\play-services-maps-10.0.1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\fd114644fb954fea318063ac10638467\play-services-tasks-10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\fd114644fb954fea318063ac10638467\play-services-tasks-10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\17a96acc483609f3b0fb66422b7d4345\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\17a96acc483609f3b0fb66422b7d4345\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4e54cae5c06a0d358530e05dfff4f807\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4e54cae5c06a0d358530e05dfff4f807\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c2b140ae0aef5d91dd5535abb81e1963\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c2b140ae0aef5d91dd5535abb81e1963\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\bc3957964865d26c741a9df42f209137\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\bc3957964865d26c741a9df42f209137\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4eff6b84284a260d78f56a3e8269964d\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\4eff6b84284a260d78f56a3e8269964d\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\03a1c0db3748f68fff95136bb126f9b7\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\03a1c0db3748f68fff95136bb126f9b7\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\9e5aeb3a9b43418d82e255bd34525598\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\9e5aeb3a9b43418d82e255bd34525598\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\05bccbdff5058acada517e63ddf858d0\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\05bccbdff5058acada517e63ddf858d0\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:20:9-42
+	android:allowBackup
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.android.SmartParking.LoginActivity
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:24:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.android.SmartParking.Balance
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.android.SmartParking.MainActivity
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:33:9-74
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:33:19-71
+activity#com.android.SmartParking.Layout
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:34:19-65
+activity#com.android.SmartParking.my_details
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:35:9-72
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:35:19-69
+activity#com.android.SmartParking.RegisterUser
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:36:9-74
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:36:19-71
+activity#com.android.SmartParking.Region
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:37:19-65
+activity#com.android.SmartParking.Slot
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:38:9-66
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:38:19-63
+activity#com.android.SmartParking.CancelBooking
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:39:19-72
+activity#com.android.SmartParking.Feedback
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:40:9-70
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:40:19-67
+activity#com.android.SmartParking.ViewBooking
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:41:9-73
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:41:19-70
+activity#com.android.SmartParking.ChoosePlot
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:42:9-44:57
+	android:label
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:43:13-63
+activity#com.android.SmartParking.MapActivity
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:45:9-47:57
+	android:label
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:46:13-64
+meta-data#com.google.android.gms.version
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:49:9-51:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\6004ebaf0f57a8855a13b9818141cf4f\play-services-basement-10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:51:13-66
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:50:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:52:9-54:71
+	android:value
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:54:13-68
+	android:name
+		ADDED from D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:53:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:19-85

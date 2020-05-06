@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.parking_studio"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+7-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="14"
+8-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="24" />
+9-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:9:5-67
+11-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:9:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:10:5-81
+12-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:11:5-79
+13-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:11:22-76
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:12:5-79
+14-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:12:22-76
+15
+16    <uses-feature
+16-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:14:5-16:35
+17        android:glEsVersion="0x00020000"
+17-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:15:9-41
+18        android:required="true" />
+18-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:16:9-32
+19
+20    <application
+20-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:18:5-55:19
+21        android:allowBackup="true"
+21-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:19:9-35
+22        android:debuggable="true"
+23        android:icon="@drawable/parkicon"
+23-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:20:9-42
+24        android:label="@string/app_name"
+24-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:21:9-41
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:22:9-40
+27        <activity
+27-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:23:9-31:20
+28            android:name="com.android.SmartParking.LoginActivity"
+28-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:24:13-66
+29            android:label="@string/app_name" >
+29-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:25:13-45
+30            <intent-filter>
+30-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:26:13-30:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:27:17-69
+31-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:27:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:29:17-77
+33-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:29:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.android.SmartParking.Balance" />
+36-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:32:9-69
+36-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:32:19-66
+37        <activity android:name="com.android.SmartParking.MainActivity" />
+37-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:33:9-74
+37-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:33:19-71
+38        <activity android:name="com.android.SmartParking.Layout" />
+38-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:34:9-68
+38-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:34:19-65
+39        <activity android:name="com.android.SmartParking.my_details" />
+39-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:35:9-72
+39-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:35:19-69
+40        <activity android:name="com.android.SmartParking.RegisterUser" />
+40-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:36:9-74
+40-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:36:19-71
+41        <activity android:name="com.android.SmartParking.Region" />
+41-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:37:9-68
+41-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:37:19-65
+42        <activity android:name="com.android.SmartParking.Slot" />
+42-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:38:9-66
+42-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:38:19-63
+43        <activity android:name="com.android.SmartParking.CancelBooking" />
+43-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:39:9-75
+43-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:39:19-72
+44        <activity android:name="com.android.SmartParking.Feedback" />
+44-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:40:9-70
+44-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:40:19-67
+45        <activity android:name="com.android.SmartParking.ViewBooking" />
+45-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:41:9-73
+45-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:41:19-70
+46        <activity
+46-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:42:9-44:57
+47            android:name="com.android.SmartParking.ChoosePlot"
+47-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:43:13-63
+48            android:label="@string/app_name" />
+48-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:44:13-45
+49        <activity
+49-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:45:9-47:57
+50            android:name="com.android.SmartParking.MapActivity"
+50-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:46:13-64
+51            android:label="@string/app_name" />
+51-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:47:13-45
+52
+53        <meta-data
+53-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:49:9-51:69
+54            android:name="com.google.android.gms.version"
+54-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:50:13-58
+55            android:value="@integer/google_play_services_version" />
+55-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:51:13-66
+56        <meta-data
+56-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:52:9-54:71
+57            android:name="com.google.android.geo.API_KEY"
+57-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:53:13-58
+58            android:value="AIzaSyDbviX2weIX__UzIsOg-S5Mi4VeXAkOOoI" />
+58-->D:\SmartPark\SmartPark\app\src\main\AndroidManifest.xml:54:13-68
+59
+60        <activity
+60-->[com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:9-172
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:19-85
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:146-170
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:10.0.1] C:\Users\pvasi\.gradle\caches\transforms-2\files-2.1\c91b9e55979f095b3cb5ad9f4550aee9\play-services-base-10.0.1\AndroidManifest.xml:19:86-145
+64    </application>
+65
+66</manifest>
